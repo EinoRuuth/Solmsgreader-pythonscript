@@ -1,7 +1,7 @@
-# Python Script for Group Search and Visualization
+# Python Script for a Solmsg output file Search and Visualization
 
 ## Overview
-This Python script allows users to search groups based on various criteria such as process time, GOID, node ID, and failed processes. Additionally, it provides functionality to specify file paths and generate visual graphs based on GOID or node ID.
+This Python script allows users to parse solmsg based on various criteria such as process time, GOID, node ID, and failed processes. Additionally, it provides functionality to specify file paths and generate visual graphs based on GOID or node ID.
 
 ## Installation
 Before using this script, ensure you have the required dependencies installed. You can install them using pip:
